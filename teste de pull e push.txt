@@ -1,6 +1,3 @@
 aqui será realizado o teste de git pull e push
 
-aqui
-
-
-fdfdfd
+vou jogar aqqui dentro do arquivo teste-de-pull-e-push 	que se ir para o git será um comando de push
